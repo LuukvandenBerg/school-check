@@ -1,0 +1,1 @@
+<header><h1>School check</h1></header>
